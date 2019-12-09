@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Pr\IeC {\'e}paration de l'environnement de travail}{3}{0}{1}
+\beamer@sectionintoc {2}{Introduction au \alert {S}yst\IeC {\`e}me de \alert {C}ontr\IeC {\^o}le de \alert {V}ersion \alert {SCV}}{11}{0}{2}
+\beamer@sectionintoc {3}{Vocabulaire de base}{17}{0}{3}
+\beamer@sectionintoc {4}{Pr\IeC {\'e}sentation de SVN}{28}{0}{4}
+\beamer@sectionintoc {5}{Initialisation du Server SVN }{32}{0}{5}
+\beamer@sectionintoc {6}{Utilisation de SVN avec PowerBuilder}{57}{0}{6}
+\beamer@sectionintoc {7}{Utilisation de SVN avec TortoiseSVN}{79}{0}{7}
